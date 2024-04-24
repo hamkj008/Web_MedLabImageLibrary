@@ -28,8 +28,8 @@ body {
 }
 
 .btn:hover {
-    background-color: #242C76;
-    filter: brightness(120%);
+    background-color: #3c4de1;
+    filter: brightness(140%);
     text-decoration: none;
     color: white;
 }
